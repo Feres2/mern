@@ -3,8 +3,8 @@ const cars = ['Tesla', 'Mercedes', 'Honda']
 const [ randomCar ] = cars
 const [ ,otherRandomCar ] = cars
 //Predict the output
-console.log(randomCar) //Tesla
-console.log(otherRandomCar) //Mercedes
+console.log(randomCar) //*Tesla
+console.log(otherRandomCar) //*Mercedes
 //============No ERRORS===================
 //========================Problem 2============================
 const employee = {
