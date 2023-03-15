@@ -14,7 +14,6 @@ function App() {
   }
   return (
     <div className="App">
-      <h1>feres</h1>
       <button onClick={fetchpok}>Fetch Pokemon</button>
       {pokemon.map((pokemon, index) => {
 
